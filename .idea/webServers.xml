@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="0b95d072-2c9e-4632-bc09-7db64089a8df" name="HETZNER" url="http://studentsupport.s1910456023.student.kwmhgb.at/">
+        <fileTransfer rootFolder="/usr/home/sstud991/public_html/studentSupport/studentSupportServer" accessType="SFTP" host="dedi50.your-server.de" port="222" sshConfigId="b3f31001-0d63-4cb3-b7d1-f55c21a990e4" sshConfig="sstud991@dedi50.your-server.de:222 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
