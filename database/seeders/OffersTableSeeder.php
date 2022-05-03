@@ -19,7 +19,7 @@ class OffersTableSeeder extends Seeder
     {
         $loremIpsum = "Lorem Ipsum dolor sit amet. Lorem ipsum lorem ispsum lorem ipsum dolor sit amet lorem";
 
-        $this->createOffer("12:00", "13:00", new DateTime("2022-4-5"),
+        $this->createOffer("12:00", "13:00", new DateTime("2022-8-8"),
             5, "JavaScript Classes", $loremIpsum, "Offen", 3, 1, "none");
     }
 
